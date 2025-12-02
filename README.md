@@ -9,24 +9,30 @@ KnobV0 is a simple project that has a microcontroller and a rotary encoder. It c
 
 
 # Screenshots
-Overall hackpad:
+Overall :
 <p align="center">
-  <img width="538" alt="image" src="https://i.ibb.co/0PcykD3/image.png" />
+  <img width="538" alt="image" src="https://i.ibb.co/5xscRccp/image.png" />
 </p>
 
 Schematic:
 <p align="center">
-  <img width="538" alt="image" src="https://github.com/user-attachments/assets/9f75b501-b49e-446d-b8a7-db4396ab32d9" />
+  <img width="538" alt="image" src="https://i.ibb.co/3y3Xh5xV/image.png" />
 </p>
 
 PCB:
 <p align="center">
-  <img width="538" alt="image" src="https://i.ibb.co/b5db0tLV/image.png" />
+  <img width="538" alt="image" src="https://i.ibb.co/0y920DpR/image.png" />
 </p>
 
 Case:
 <p align="center">
-  <img width="538" alt="image" src="https://i.ibb.co/1J93WZnR/image.png" />
+  <img width="538" alt="image" src="https://i.ibb.co/c7kYPNn/image.png" />
+</p>
+<p align="center">
+  <img width="538" alt="image" src="https://i.ibb.co/Cs9kCt8M/image.png" />
+</p>
+<p align="center">
+  <img width="538" alt="image" src="https://i.ibb.co/WpVNxR9M/image.png" />
 </p>
 
 # BOM:
