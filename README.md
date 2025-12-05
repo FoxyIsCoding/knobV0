@@ -36,4 +36,8 @@ Case:
 </p>
 
 # BOM:
-- The BOM table file in the git root
+| Product          | Price      | Link                                                                                                                                                                                                |
+|------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rotary Encoder   | 0,53 EUR   | [AliExpress](https://www.aliexpress.com/item/1005009039521446.html?spm=a2g0o.cart.0.0.704038daCqXtkw&mp=1&pdp_npi=5%40dis%21CZK%21CZK%2015.78%21CZK%2012.79%21%21CZK%2012.79%21%21%21%402103835e17646040474881123ea621%2112000047676722144%21ct%21CZ%216300282529%21%211%210)  |
+| The microcontroller | 11,14 EUR  | [RPiShop.cz](https://rpishop.cz/498312/seeed-studio-xiao-esp32s3/)                                                                                                                                  |
+| PCB              | 2 EUR      | -                                                                                                                                                                                                   |
